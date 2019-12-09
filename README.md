@@ -1,1 +1,1 @@
-# the-ux-quiz
+# The UX Quiz
